@@ -1,0 +1,7 @@
+[
+    {"id" : 1, "name" : "Caña de pescar", "price": 17.00, "discount": 12},
+    {"id" : 2, "name" : "Caña rota", "price": 8.00, "discount": 25},
+    {"id" : 3, "name" : "Caña deportiva", "price": 7.38, "discount": 5},
+    {"id" : 4, "name" : "Caña profesionales", "price": 9.30, "discount": 7}
+    
+]
