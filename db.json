@@ -9,9 +9,9 @@
     "mainList":[
         {"categories" : [
             {"id": 1, "name": "Pesca deportiva", "src_photo": "default.png"},
-            {"id": 2, "name": "Pesca artesanal", "src_photo": "default.png"},
+            {"id": 2, "name": "Pesca artesanal"},
             {"id": 3, "name": "Electronica marina", "src_photo": "default.png"},
-            {"id": 4, "name": "Buceo", "src_photo": "default.png"},
+            {"id": 4, "name": "Buceo"},
             {"id": 5, "name": "Prueba 1", "src_photo": "default.png"},
             {"id": 6, "name": "Prueba 2", "src_photo": "default.png"}
         ]},
