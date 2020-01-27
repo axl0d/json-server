@@ -1,64 +1,56 @@
 {
-    "gallery" : [
-        {
-            "brands" : [
-                {
-                    "id":1,
-                    "name":"BHCnav"
-                },
-                {
-                    "id":2,
-                    "name":"BHCnav"
-                },
-                {
-                    "id":3,
-                    "name":"BHCnav"
-                },
-                {
-                    "id":4,
-                    "name":"BHCnav"
-                }
-            ]
-        },
-        {
-            "categories" : [
-                {
-                    "id":1,
-                    "name":"Pesca deportiva1"
-                },
-                {
-                    "id":2,
-                    "name":"Pesca deportiva2"
-                },
-                {
-                    "id":3,
-                    "name":"Pesca deportiva3"
-                },
-                {
-                    "id":4,
-                    "name":"Pesca deportiva4"
-                }
-            ]
-        },
-        {
-            "products" : [
-                {
-                    "id":1,
-                    "name":"Navegador GPS 78 1"
-                },
-                {
-                    "id":2,
-                    "name":"Navegador GPS 78 2"
-                },
-                {
-                    "id":3,
-                    "name":"Navegador GPS 78 3"
-                },
-                {
-                    "id":4,
-                    "name":"Navegador GPS 78 4"
-                }
-            ]
-        }
+    "brands":[
+      {
+        "id": 1,
+        "name": "BHCnav"
+      },
+      {
+        "id": 2,
+        "name": "BHCnav"
+      },
+      {
+        "id": 3,
+        "name": "BHCnav"
+      },
+      {
+        "id": 4,
+        "name": "BHCnav"
+      }
+    ],
+    "categories":[
+      {
+        "id": 1,
+        "name": "Pesca deportiva1"
+      },
+      {
+        "id": 2,
+        "name": "Pesca deportiva2"
+      },
+      {
+        "id": 3,
+        "name": "Pesca deportiva3"
+      },
+      {
+        "id": 4,
+        "name": "Pesca deportiva4"
+      }
+    ],
+    "products":[
+      {
+        "id": 1,
+        "name": "Navegador GPS 78 1"
+      },
+      {
+        "id": 2,
+        "name": "Navegador GPS 78 2"
+      },
+      {
+        "id": 3,
+        "name": "Navegador GPS 78 3"
+      },
+      {
+        "id": 4,
+        "name": "Navegador GPS 78 4"
+      }
     ]
-}
+  }
