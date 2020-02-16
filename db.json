@@ -52,5 +52,25 @@
         "id": 4,
         "name": "Navegador GPS 78 4"
       }
-    ]
+    ],
+    "productsByBrand":{
+      "brand" : {
+        "id" : 1,
+        "name" : "BHCnav"
+      },
+      "products" : [
+        {
+          "id": 1,
+          "name": "Navegador GPS 78 1"
+        },
+        {
+          "id": 2,
+          "name": "Navegador GPS 78 2"
+        },
+        {
+          "id": 3,
+          "name": "Navegador GPS 78 3"
+        }
+      ]
+    }
   }
