@@ -6,15 +6,15 @@
       },
       {
         "id": 2,
-        "name": "BHCnav"
+        "name": "BHCnav1"
       },
       {
         "id": 3,
-        "name": "BHCnav"
+        "name": "BHCnav2"
       },
       {
         "id": 4,
-        "name": "BHCnav"
+        "name": "BHCnav3"
       }
     ],
     "categories":[
@@ -51,6 +51,22 @@
       {
         "id": 4,
         "name": "Navegador GPS 78 4"
+      },
+      {
+        "id": 5,
+        "name": "Navegador GPS 78 5"
+      },
+      {
+        "id": 6,
+        "name": "Navegador GPS 78 6"
+      },
+      {
+        "id": 7,
+        "name": "Navegador GPS 78 7"
+      },
+      {
+        "id": 8,
+        "name": "Navegador GPS 78 8"
       }
     ],
     "productsByBrand":{
